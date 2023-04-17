@@ -19,3 +19,13 @@ pip install -r requirements.txt
 ```bash
 pip3 install -r requirements.txt
 ```
+
+- [Start a BE development environment on port 8000]
+
+```Powershell
+py manage.py runserver
+```
+
+```bash
+python3 manage.py runserver
+```
